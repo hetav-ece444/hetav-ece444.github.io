@@ -1,7 +1,5 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
-
-> https://varadbhogayata.github.io
+# Information ⚡️
+This is a lab2 repository for Hetav Pandya which is built upon the code cloned from https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
