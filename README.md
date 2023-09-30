@@ -10,3 +10,10 @@ Screenshot of the webpage after changing the content
 
 Screenshot of the repo after changing the contents
 ![Alt text](activity2-2.png)
+
+Activity 3:
+Screenshot showing a new color theme
+![Alt text](activity3-1.png)
+
+Screenshot of the repository after activity 3
+![Alt text](activity3-2.png)
